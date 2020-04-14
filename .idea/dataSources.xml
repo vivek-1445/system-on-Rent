@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="DB2 (JTOpen) - @localhost" uuid="f1d2cae5-f846-4a62-8db2-c753d652e47c">
+      <driver-ref>db2.jtopen</driver-ref>
+      <jdbc-driver>com.ibm.as400.access.AS400JDBCDriver</jdbc-driver>
+      <jdbc-url>jdbc:as400://localhost:446</jdbc-url>
+      <driver-properties>
+        <property name="prompt" value="false" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>

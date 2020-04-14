@@ -1,0 +1,43 @@
++1)converting Html to Php
+
++2)set Loging and Registration page
+
++3)Loging and Registration page in put validtion by library(jquery) 
+
++4)set password hide and show
+
++5)part(division) of user and admin (crud)
+
++6)user Registration data insert in database
+
++7)set session
+ 
++8)view user data in admin side
+
++9)set functionality of delete and uapdate data from admin side
+
++10)use uplode rent item on site
+
++11)define user data in user side(only our data)
+
+-12)item update
+ 
++13)not result found data show message in user side empty data
+
++14)md5() to Decrypt data in password(login time)
+
++15)item_rent_detais table (insert)(crud)
+
++(part of user name and item id in proparty rent page
+ 
++16)Add Data table in all table
+
+		-all add table in put validation
+		-all view table in put delete and edit
+-17)user update profile(popup)(on header)
+
+-18)put filter on front side(http://localhost/rant-system/)
+ 
+-19)put pagignation on front (http://localhost/rant-system/)
+
+20)after payment not show data(http://localhost/rant-system/Payment_details.php?id=20&status=complated)
